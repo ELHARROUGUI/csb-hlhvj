@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://elharrougui.github.io/csb-hlhvj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://elharrougui.github.io/csb-hlhvj/static/js/main.11f93f8a.chunk.js",
+    "main.js.map": "https://elharrougui.github.io/csb-hlhvj/static/js/main.11f93f8a.chunk.js.map",
+    "runtime-main.js": "https://elharrougui.github.io/csb-hlhvj/static/js/runtime-main.0cd145a5.js",
+    "runtime-main.js.map": "https://elharrougui.github.io/csb-hlhvj/static/js/runtime-main.0cd145a5.js.map",
+    "static/js/2.d74063a0.chunk.js": "https://elharrougui.github.io/csb-hlhvj/static/js/2.d74063a0.chunk.js",
+    "static/js/2.d74063a0.chunk.js.map": "https://elharrougui.github.io/csb-hlhvj/static/js/2.d74063a0.chunk.js.map",
+    "index.html": "https://elharrougui.github.io/csb-hlhvj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://elharrougui.github.io/csb-hlhvj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d74063a0.chunk.js.LICENSE.txt": "https://elharrougui.github.io/csb-hlhvj/static/js/2.d74063a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd145a5.js",
+    "static/js/2.d74063a0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.11f93f8a.chunk.js"
+  ]
+}
